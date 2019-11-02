@@ -1,2 +1,2 @@
-require './congig/environment'
+require './config/environment'
 require 'sinatra/activerecord/rake'
