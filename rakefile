@@ -1,0 +1,2 @@
+require './congig/environment'
+require 'sinatra/activerecord/rake'
